@@ -39,9 +39,9 @@ Follow these steps to set up your environment for the tutorials:
     pip install -r requirements.txt
     ```
 
-6. **Ensure Jupyter Uses Python 3.11.6**
+6. **Ensure Jupyter Uses Python 3.11**
 
-    Install the IPython kernel and create a new kernel for Python 3.11.6:
+    Install the IPython kernel and create a new kernel for Python 3.11:
     ```sh
     ipython kernel install --user --name=python3.11
     ```
