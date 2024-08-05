@@ -1,0 +1,24 @@
+ipython==8.16.1
+ipykernel==6.25.2
+ipywidgets==8.1.1
+jupyter_client==8.4.0
+jupyter_core==5.4.0
+jupyter_server==2.8.0
+jupyterlab==4.0.7
+nbclient==0.8.0
+nbconvert==7.9.2
+nbformat==5.9.2
+notebook==7.0.6
+traitlets==5.11.2
+
+# Lab 1: Deploying a model as a web service
+cvlib==0.2.7
+opencv-python-headless==4.9.0.80
+Pillow==10.2.0
+tensorflow==2.15.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+fastapi==0.110.1
+nest-asyncio==1.6.0
+
+# Lab 2
